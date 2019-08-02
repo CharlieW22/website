@@ -1,0 +1,19 @@
+/* body { */
+  /* width:cover; */
+  /* height:1500; */
+  /* background-image: linear-gradient(red, yellow) */
+/* } */
+
+
+h1 {
+  color: darkblue;
+  font-size: 16px;
+  font-style: italic;
+  font-family: Monsterrat, "Helvetica Neue ", Helvetica, Arial, sans-serif;
+}
+.Gold {
+  color: gold;
+}
+.Score {
+  color: #C0C0C0;
+}
